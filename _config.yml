@@ -20,7 +20,7 @@ title                    : "코드 연구소"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyunwoo404"
-description              : "어서오세요 환영합니다."
+description              : "환영합니다."
 url                      : "https://Hyunwoo404.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "조현우"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "이제 막 프로그래밍 세계에 입문한 개발자입니다."
+  bio              : "이제 막 프로그래밍 세계에 입문했습니다."
   location         : "Seoul, Korea"
   email            :
   links:
