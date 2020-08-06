@@ -1,6 +1,6 @@
 ---
 title: "블로그 개설 기념 첫 글!"
-date: 2020-08-06 16:50:00 
+date: 2020-08-06 16:50:00 -0700
 categories: jekyll update
 ---
 
