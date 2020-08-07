@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "조현우"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile/62684943.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "이제 막 프로그래밍 세계에 입문했습니다."
   location         : "Seoul, Korea"
   email            :
